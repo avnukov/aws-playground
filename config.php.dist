@@ -1,0 +1,7 @@
+<?php
+$config = [
+    'aws' => [
+        'key'    => 'AWSKEY',
+        'secret' => 'AwsSecretKey',
+    ],
+];
